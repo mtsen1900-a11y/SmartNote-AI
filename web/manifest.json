@@ -1,0 +1,11 @@
+{
+  "name": "Smart Note AI",
+  "short_name": "Smart Note",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "description": "Flutter Web Responsive ghi chu thong minh",
+  "orientation": "any",
+  "prefer_related_applications": false
+}
